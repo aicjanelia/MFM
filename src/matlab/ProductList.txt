@@ -1,0 +1,7 @@
+Name,Version,ProductNumber,Certain
+MATLAB,9.3,1,1
+Image Processing Toolbox,10.1,17,1
+Statistics and Machine Learning Toolbox,11.2,19,1
+Curve Fitting Toolbox,3.5.6,60,1
+Parallel Computing Toolbox,6.11,80,0
+MATLAB Distributed Computing Server,6.11,94,0
